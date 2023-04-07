@@ -1,13 +1,15 @@
-## Submitting changes
+# Submitting changes
+
 (I borrowed this from [opengov](https://raw.githubusercontent.com/opengovernment/opengovernment/master/CONTRIBUTING.md))
 Please send a [GitHub Pull Request to gamification](https://github.com/learningOSSContributions/gamification/compare)
 
 Always write a clear log message for your commits. One-line messages are fine for our purposes.
 
-To contribute:  
-1. Make your own fork of this [repo](https://github.com/learningOSSContributions/gamification/fork)  
+To contribute:
+
+1. Make your own fork of this [repo](https://github.com/learningOSSContributions/gamification/fork)
 2. Clone your repo to your local machine.
-3. In your local clone, add one line to the file "updatable". You pick what to put in it. Save your change.  
+3. In your local clone, add one line to the file "updatable". You pick what to put in it. Save your change.
 4. Stage your file for committing
 5. Commit your staged file's change with a message like "adding my line"
 6. Use Torch!
